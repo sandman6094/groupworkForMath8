@@ -2,8 +2,8 @@
 #include <math.h>
 
 int main(){
-    double a = -1.0;
-    double b = 1.0;
+    double a = 0;
+    double b = 10;
     int n = 0;
     double delta_x = 0.0;
     double xi = 0.0;
